@@ -10,11 +10,11 @@ First presented at the Houston Python Web Development Meetup group. http://www.m
 # Create a virtual environment
 # mkvirtualenvwrapper must be installed
 # not required, but nice to have
-mkvirtualenv scrapy_example
+mkvirtualenv reddit
 
-git clone https://github.com/eloyz/scrapy_example.git
+git clone https://github.com/eloyz/reddit.git
 
-cd scrapy_example
+cd reddit
 scrapy crawl pic
 ```
 
