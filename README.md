@@ -4,6 +4,8 @@ Scraping http://www.reddit.com for posts and images using Scrapy http://scrapy.o
 
 First presented at the Houston Python Web Development Meetup group. http://www.meetup.com/python-web-houston/events/219729234/
 
+YouTube video: https://youtu.be/nnnDshuflSI
+
 
 ## Use this code now
 ```
